@@ -17,7 +17,7 @@ import {
 import { formatDocumentsAsString } from "langchain/util/document";
 import PromptSync from "prompt-sync";
 import { clearInterval } from "timers";
-
+import colors from "colors";
 
 //initialize ollama model
 const ollama = new Ollama({
@@ -30,7 +30,8 @@ const text = fs.readFileSync("CNcontext.txt", "utf8");
 
 //split text into 50 character chunks and overlap 20
 const textsplitter = new RecursiveCharacterTextSplitter({
-  chunkSize: 1000,
+  chunkSize: 500,
+  chunkOverlap:20
 });
 
 const splitDoc = await textsplitter.createDocuments([text]);

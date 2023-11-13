@@ -1,0 +1,501 @@
+
+Introduction to craftnepal "Welcome to CraftNepal, our Minecraft server that has been serving the Minecraft community for over six years with a friendly and welcoming community. With vanilla tweaking plugins, we strive to provide a fun and engaging gaming experience for all players, whether they're Minecraft veterans or new to the game. We're proud to say that over 2000 players have joined our server, and we're excited to welcome even more to explore the vast world of Minecraft, build amazing structures, and make new friends along the way. If you're looking for a well-established and enjoyable Minecraft server, look no further than CraftNepal."
+
+Origin of CraftNepal:
+- CraftNepal has a unique origin story that began with a small group of friends who wanted to play games together back in 2014 - 2015.
+As the Minecraft hype grew, they decided to create a vanilla survival server called myktmcraft, owned by Cnobi and his friends. The server quickly gained popularity, and players from all over joined to make great memories together. However, as time passed, the hype waned, and the server became less active. In 2019, when Minecraft became popular again, players started to flood in, but Cnobi was too busy to moderate the server. Meanwhile, a new Minecraft community in Nepal had formed: NepaliCrafters, owned by Subu and Code. Subu, who was a moderator in myktm, and the owner of NepaliCrafters and myktmcraft decided to merge their servers and create a bigger server located in Nepal, which they named CraftNepal.
+Since then, CraftNepal has continued to grow and evolve, and in 2021, they introduced Seasons of Minecraft Survival. This meant the world resets every year, allowing Minecraft players to start a new adventure at every season. Today, in 2023, CraftNepal is still serving Minecraft players, and the community continues to thrive. From its humble beginnings as a group of friends playing games together, to a thriving Minecraft community in Nepal, CraftNepal's journey is a testament to the power of friendship, creativity, and the joy of gaming.
+
+Craftnepal features:
+- Timber: Tree falls upon cutting it from root by an axe
+- Ranks:Automated ranking system that promotes players depending on their gameplay
+- Market Place: A market place where you can open your shop to buy/sell
+- Sync Discord: Get your roles from ingame to discord. A fully automated rank sync.
+- Skills and Abilities: Level up your skills in mining, farming etc. to gain extra Abilities
+- World Map: Find your way back home with this live map
+- Voice Mod: Talk to your friends within the game in 3d environment.
+- WayPoints: Need to travel far? No, worries. Teleport to different location in the world in seconds.
+- Vanilla Tweaks: Datapacks such as Dragon drop elytra, armoured elytra and so on
+
+
+Player guide for craftnepal:
+    - if a player asks about their playtime or their statistics, redirect them to our website craftnepal.net or help using ingame commands that you know
+   Here are all the frequently asked questions by the players:
+
+    - How do I join your Minecraft server?
+        Verification is required to join our server for which, you must have a Discord account already set up. You must follow Discord T&C and our Rules (listed 
+        above & in our Discord Server) in order to play in our server.
+
+        Phase 1 - Connecting your Minecraft Account to Discord:
+
+        Access our Minecraft server using the IP: play.craftnepal.net
+        A screen will prompt you to link your account to Discord by entering a 4-digit code.
+        Send the 4-digit code directly to our CraftNepal Bot, in our Discord server, to complete the linking process.
+        Reconnect to the server after completing the linking process.
+        Phase 2 - First-time Player Account Registration:
+
+        For first-time players, registration of your account is required.
+        Once you are in-game, type this command in chat: /register followed by your password, twice.
+        Example: /register rambahadur123 rambahadur123
+        Your account will then be created and stored in the server's database. Remember to securely store your password.
+        Phase 3 - Logging in to our Server the next time you log in:
+
+        When you connect to the server in subsequent sessions, you will need to log in.
+        Once you are in-game, type this command in chat: /login password Example: /login rambahadur123 
+
+    - What is CraftNepal IP address?
+        play.craftnepal.net
+
+    - I am about to die, can mod TP me to safety?
+        No.
+
+    - How can I become a Mod?
+        We currently are not accepting Mod applications.
+
+    -What is jail?
+        Jail serves as a designated area within our server where individuals who violate the rules are sent to reflect upon their actions.
+        Players who disregard the warnings from our moderators regarding rule violations will be subjected to imprisonment.
+        In cases of severe rule infractions, individuals may face a ban from participating in our server.
+
+        To ensure compliance with our rules, we kindly request that you familiarize yourself with our rules guide provided both above and on our Discord server.
+
+    - Is it cheating if I use an auto clicker?
+        Yes, using an auto clicker would be deemed as cheating in our server since it presents the player as actively participating when they are actually not. Employing an auto clicker disrupts the fairness of rankings and leaderboards, thereby creating an unfair advantage over other players.
+
+    - Can I use anti-AFK mechanisms in this server?
+        No, anti-AFK mechanisms can result in unfair advantages by allowing players to increase playtime without active gameplay, undermining competition and jeopardizing the rank system. Additionally, these mechanisms disrupt social dynamics within the game and any player found using anti-AFK mechanisms will be kicked from the server.
+
+    - Can I AFK my farms?
+        Yes, you can go AFK as long as you refrain from engaging in any activities like using auto-clickers or anti-AFK mechanisms. In case you need to indicate that you are away from the keyboard, you can utilize the "/afk" command. There will be no repercussions such as being kicked or banned under these circumstances.
+
+    - Can I use Freecam?
+        Players can use the Freecam feature for legitimate purposes only.
+        HOWEVER, it is crucial to understand that any misuse of Freecam with the intent to cheat or gain unfair advantages WILL result in punishment.
+        The primary purpose of Freecam is to enhance exploration or cinematic experiences for players, rather than exploit or manipulate gameplay mechanics unfairly.
+        We have implemented strict rules to deter and penalize any improper use of Freecam or other features that undermine the fairness and integrity of the Minecraft gameplay within our server.
+
+    - What is considered cheat in this server?
+        In our CraftNepal Minecraft server, we have strict rules regarding cheats and unfair gameplay practices. These include:
+
+        The use of hacked clients or modifications that provide unfair advantages, such as x-ray vision, fly hacks, or speed hacks.
+        Exploiting glitches or bugs in the game to gain an unfair advantage, such as item duplication or accessing restricted areas.
+        Unauthorized trading or sharing of in-game items or accounts.
+        Using third-party programs or tools that automate gameplay or give unfair advantages, such as auto-clickers or macros.
+        Collaborating with other players to engage in unfair practices or manipulate game mechanics for an unfair advantage.
+        Engaging in griefing, which involves intentionally stealing, destroying or vandalizing other players' creations or the server's environment.
+
+    - Why can't I make a shop?
+        Before opening your shop, please make sure that you have unlocked the "Vyapari" Rank in the game and have carefully followed the instructions provided in the Market Guide.
+
+Market place in craftnepal:
+    In our community, we use a virtual currency called '$' which is used for buying and selling items in the game. One diamond on our server is worth $200, making it a valuable asset for players to obtain. It's worth noting that when players sell diamonds or other items in the Market, they are taxed at a rate of 5%. This helps to maintain a healthy economy on our server and prevent excessive inflation. You are only able to create a shop once you have ranked up to Vyapari rank.
+    - Where can I build my shop:
+        Go to the designated Market place and claim a part of the land where you want to build your shop using a wooden shovel.
+        You must build a structure for your shop before selling any items.
+        You can signpost your shop as 'under construction' if you are not ready to sell yet.
+        By creating a shop or using a shop in the Market, you are agreeing to follow and abide by the Market Rules.
+    - How do I sell items in my own shop in the Market?
+        Place a chest in your shop's build.
+        Left-click this chest with the item on your right hand that you want to sell.
+        A message in chat pops up instructing you to enter the price you want to set for that item.
+        Once you have input the amount you want to sell the item for, the chest will automatically have a sign saying 'Selling'.
+        At this point, you will need to add the items into the chest you've just created so other players can buy from it.
+        Note: every price change has a fee so think carefully before setting your prices.
+    - How do I buy items from a shop in the Market?
+        Look for the chest with the item you want to buy.
+        Once you have found what you are looking for, make sure the sign on the chest says 'Selling'.
+        Left-click the chest shop.
+        Shop information pops up in chat with instructions for you to enter the number of items you want to buy in the chat.
+        Once you have entered the number of items you want to buy, the shop will automatically take money from your balance and the item will be in your inventory.
+        Note: Always make sure you have enough money in your balance to purchase the item and you have enough space in your inventory.
+    - How do I delete my shop from the Market?
+        Go to the chest and right-click on the sign.
+        In the chat, you will see 'RemoveShop'. Click on it.
+        This will remove the shop from the Market, and it will be only a plain old chest.
+        Note: There is no fee for this change.
+    - How do I change the price of an item in my shop?
+        Go to the chest and right-click on the sign of the item you want to change the price.
+        In the chat, you will see 'Change' next to the price. Click on it.
+        Type the new price in the chat.
+        The new prices will take effect immediately, and players will be able to buy and sell items at the new rates.
+        Note: every price change has a fee so think carefully before setting your prices.
+    - How do I change from selling to buying or vice versa?
+        Go to the chest and right-click on the sign of the item you want to change.
+        Shop Control Panel will pop up in the chat.
+        Click on the 'Change' next to the Shop Mode to change your shop into buying or selling mode.
+        Note: There is no fee for this change.
+    - How do I determine prices for my items to sell?
+        To effectively price your items for selling, you can follow these steps:
+        Use the "/worth" command to check the server's estimated price for the items you wish to sell. This will give you an idea of their market value.
+        You cannot sell an item for a price lower than 10% of its "/worth" value. This restriction ensures a fair minimum price standard.
+        However, you have the freedom to set the selling price as high as you desire. Consider factors such as rarity, demand, and competition when determining a 
+        suitable price for your items.
+        If you don't follow the minimum price limit, your shop will be removed. This rule is in place to make sure everyone plays fair and has an equal opportunity 
+        to trade.
+
+
+Rules of CraftNepal:
+Our main focus is to ensure that all players have a fair and enjoyable experience while playing in our server. To achieve this, we have established clear rules and consequences to discourage and punish behaviour that goes against fairness and integrity. It is important for everyone to familiarise themselves with our Rules and Guides to understand what is expected of them and to contribute to a positive gaming environment. Failure to comply with the following rules may result penalties such as in-game jail time or a permanent ban.
+- Gameplay rules:
+    Be respectful to everybody and specially to the admins.
+    Do NOT grief players or their bases. If you want to PvP, the other party must agree as well.
+    Do NOT cheat, play fair.
+    Do NOT advertise other servers.
+    Do NOT dupe any unauthorised materials.
+    Do NOT claim portals in the Nether and the End.
+    Do NOT spam fly with rockets.
+    Do NOT build heavy/server-lagging farms.
+    Do NOT ask to TP you to help you from dying.
+    Do NOT ask for your death coordinates.
+    Do NOT ask to give you back items you lost at death.
+    Do NOT ask to give you items out of creative inventory.
+    Do NOT ask for our mc server seed.
+- Market District rules:
+    Do NOT sell items for free or extremely low price.
+    Do NOT sell duped items, this will result in permanent ban.
+    Do NOT make any nether portals within the market.
+    Do NOT destroy the pathway.
+    Do NOT build shops on the path.
+    Only one free plot per player.
+    One Shop per player. You can add other players to your shop and how to do it you can find in the Commands section.
+    Inappropriate builds are not allowed.
+    Any exploits or loopholes found must be reported immediately and should NOT be misused.
+    Unbuilt plots a week after claim will be removed.
+    Shops with minimal builds, such as only storage chests/signs only, will be considered unbuilt and will be removed.
+    Shop plots a month after the owner was last seen will be removed unless they have notified us of their leave.
+    
+    
+In-game Command lists:
+    /market
+    Teleports you to the market.
+
+    /qs create
+    Create your shop using command.
+
+    /qs find itemname
+    Find the nearest shop selling your item.
+
+    /qs staff
+    Set staffs in your shop. They will be able to restock and manage your shop.
+
+    /worth
+    Checks the server price for the item you are holding in your main hand.
+
+    /AbandonClaim
+    Deletes the claim you’re standing in.
+
+    /ClaimExplosions
+    Toggles if explosions are allowed in the claim.
+
+    /Trust
+    Gives another player permission to edit in your claim.
+
+    /UnTrust
+    Revokes any permissions granted to a player in your claim.
+
+    /AccessTrust
+    Gives a player permission to use your buttons, levers, and beds.
+
+    /ContainerTrust
+    Gives a player permission to use your buttons, levers, beds, crafting gear, containers, and animals.
+
+    /TrustList
+    Lists the permissions for the claim you’re standing in.
+
+    /SubdivideClaims
+    Switches your shovel to subdivision/subclaim mode, so you can subdivide your claims.
+
+    /RestrictSubclaim
+    Restricts a subclaim, so that it inherits no permissions from the parent claim.
+
+    /BasicClaims
+    Puts your shovel back in basic claims mode.
+
+    /PermissionTrust
+    Grants a player permission to share his permission level with others.
+
+    /Untrust All
+    Removes all permissions for all players in your claim.
+
+    /AbandonAllClaims
+    Deletes all of your claims.
+
+    /BuyClaimBlocks
+    Converts server money to claim blocks.
+
+    /SellClaimBlocks
+    Converts claim blocks to server money.
+
+    /GivePet
+    Gives away a tamed animal.
+
+    /ClaimsList
+    Lists a player’s claims and claim block details.
+
+    /IgnorePlayer
+    Ignores a target player’s chat messages.
+
+    /UnIgnorePlayer
+    Un-ignores a target player’s chat messages.
+
+    /IgnoredPlayerList
+    Lists all players currently ignored.
+
+    /Trapped
+    Gets a player out of a land claim he’s trapped inside.
+
+    /UnlockDrops
+    Allows other players to pick up items you dropped when you died.
+
+    /home
+    Teleport to your home
+
+    /sethome
+    Set home at your position
+
+    /discord link
+    Link you discord account. DM CraftNepal bot with the code given.
+
+    /discord unlink
+    Unlink your discord account.
+
+    /ar check
+    Shows your rank progress
+
+    /ar check playername
+    Check rank progress of a player
+
+    /skin
+    Set skins
+
+    /balance
+    Check your balance
+
+    /baltop
+    Check balance leaderboard
+
+Skills and abilities description:
+	Embark on an unparalleled Minecraft experience with the addition of Aurelium Skills to our CraftNepal SMP Season 6! Elevate your gameplay, unlock fresh abilities, and immerse yourself in a supportive community on our CN server. Expand your skills and boost your Minecraft adventures to new heights with this innovative skill-building platform. Go ahead and transform your typical grind for materials in-game into meaningful goals for yourself!
+	- what do you mean by skills?
+    	This platform offern a total of 14 skills to level up. Each skill offers unique Abilities, Mana Abilities and Stat Buffs, enhancing your gameplay experience. 		  The 14 skills are:
+
+        Farming - Harvest crops to earn Farming XP
+        Foraging - Cut trees, combine and apply enchanted books in an anvil to earn Foraging XP
+        Mining - Mine stone and ores to earn Mining XP
+        Fishing - Catch fish to earn Fishing XP
+        Excavation - Dig with a shovel to earn Excavation XP
+        Archery - Shoot mobs and players with a bow to earn Archery XP
+        Defense - Take damage from player or entities to earn Defense XP
+        Fighting - Fight mobs with melee weapons to earn Fighting XP
+        Endurance - Walk and run to earn Endurance XP
+        Agility - Jump and take fall damage to earn Agility XP
+        Alchemy - Brew potions to earn Alchemy XP
+        Enchanting - Enchant items and books to earn Enchanting XP
+        Sorcery - Use mana abilities to earn Sorcery XP
+        Healing - Drink and splash potions to earn Healing XP
+	- What are the unique Abilities?
+		As you level up your skills, you unlock and enhance various passive Abilities, which gives you passive perks and buffs. EACH skill offers up to FIVE unique 		abilities, providing you with a wide range of advantageous perks without requiring any extra input to activate or use from your side. Make sure to go through   	  the player Skills GUI in-game to get the best of the Abilities!
+        
+        Abilities Samples:
+        Bountiful Harvest (Farming) - Chance to get double drops from crops
+        Shredder (Foraging) - Chance to deal triple durability damage with axes
+        Lucky Miner (Mining) - Chance for double drops from ores
+        Treasure Hunter (Fishing) - Chance to get rare loot from fishing
+        Piercing (Archery) - Chance for arrows to pierce through mobs
+        No Debuff (Defense) - Chance to negative a harmful potion effect from being applied
+        Bleed (Fighting) - Chance to make the enemy bleed, dealing damage every few seconds
+        Anti Hunger (Endurance) - Chance to stop hunger loss
+        Thunder Fall (Agility) - When sneaking during a fall, you have a chance to deal a percentage of the fall damage expected to mobs in a 3 block radius
+        Alchemist (Alchemy) - Potions you brew have a longer duration
+        Life Steal (Healing) - Heal a percentage of the max HP of hostile mobs and players you kill
+        And many more..! Join us now and try to unlock all abilities!
+	- What is Mana Ability?
+    	Unlike passive abilities, mana abilities are active, meaning they require player's input to be activated/used. The Mana abilities are unlocked at level 7 of   		 the specific Skills and gets stronger at every 7th level of the corresponding skill after being unlocked.
+
+        Mana Ability samples:
+
+        Replenish (Farming) - Automatically replants crops for a duration. Activate by right-clicking with a hoe and breaking a crop. Works with wheat, carrots,
+        potatoes, nether wart, and beetroot.
+        Treecapitator (Foraging) - Instantly breaks entire trees for a duration. Activate by right-clicking with an axe and breaking a log. Works best with oak, 
+        birch, and spruce trees (one block wide).
+        Speed Mine (Mining) - Grants Haste 10 for a duration. Activate by right-clicking with a pickaxe and breaking stone or ore.
+        Sharp Hook (Fishing) - Deals damage to a hooked entity when left-clicking with a fishing rod.
+        Terraform (Excavation) - Instantly breaks blocks in a 4-block radius in the same layer when digging. Use a shovel and break blocks of the same type in a 
+        connected vein. Activate by right-clicking with a shovel and digging a block.
+        Charged Shot (Archery) - Arrows deal more damage based on the bow's draw distance, consuming mana. Damage increases per mana consumed. Toggle charged shot 
+        mode by left-clicking a bow.
+        Absorption (Defense) - Incoming damage depletes mana by 2x Minecraft damage instead of health. Mana does not regenerate while Absorption is active. Activate 
+        by left-clicking a shield and taking damage.
+        Lightning Blade (Fighting) - Increases attack speed by a percentage for a duration. Activate by right-clicking a sword and attacking a mob.
+        For more Mana Abilities, check the player Skills GUI in in-game!
+	- What is Stats Buffs?
+        As you progress in each skill level, you not only unlock distinctive Abilities and Mana Abilities, but you also earn Stat Buffs as rewards! Every player is 
+        equipped with a limited set of 6 Stat Buffs that can also be levelled up to enhance your in-game capabilities.
+        Strength - Increases attack damage
+        Health - Increases max health
+        Regeneration - Increases health and mana regen speed
+        Luck - Increases luck attribute and double drop chance for common blocks
+        Wisdom - Increases experience gain, max mana, and decreases anvil costs
+        Toughness - Reduces incoming damage
+        To check how strong or tough you are, view your in-game stats!
+	- In-game Commands & Skills GUI
+    	Familiarise yourself with the Skills GUI in-game to check or keep track of your skills progress.
+
+        /skill
+        Opens up your Skills GUI where you can find all details of Skills, Abilities, Mana Abilities and Stat Buffs info. You can also check TOP 10 ranked players of 
+        each Skills from this GUI.
+
+        /skilltop
+        Are you in the TOP 10 in Skills leaderboard, yet? This command shows you the overall TOP 10 players in all Skills.
+        
+        /skillrank
+        View your ranking among other players for All Skills.
+
+9 Primary Ranks in CraftNepal:
+	Give only primary rank names first. Provide requirements only when asked. A player has to complete all the requirements of each primary rank to get them in game. 	 When they complete the requirements, Server will promote them to their respective primary Rank In-game according to the fulfilled requirements. CraftNepal-BOT 	will change player's Role in discord when you rank up In-game. Highest Primary Rank is Raja. Primary Rank names are listed below:
+    1. kamdar
+    2. Kisan
+    3. Vyapari
+	4. Karigar
+	5. Sainik
+	6. Pandit
+	7. Mantri
+	8. Senapati
+	9. Raja
+    	
+    Primary rank requirements are listed below:
+    1. kamdar
+    	- requirements:
+        	playtime: 30 min
+            blocks mined: 50 blocks
+    2. Kisan
+    	- requirements:
+        	playtime: 2 hour
+            blocks mined: 200 blocks
+            farming skill level: 3
+    3. Vyapari
+    	- requirements:
+        	playtime: 10 hour
+            blocks mined: 500 blocks
+            farming skill level: 5
+            Mining skill level: 5
+	4. Karigar
+    	- requirements:
+        	playtime: 18 hour
+            blocks mined: 1000 blocks
+            farming skill level: 7
+            Agility skill level: 7
+            Mana: 40
+	5. Sainik
+    	- requirements:
+        	playtime: 40 hour
+            blocks mined: 2000 blocks
+            Fighting skill level: 15
+            Mana: 50
+	6. Pandit
+    	- requirements:
+        	playtime: 110 hour
+            blocks mined: 6000 blocks
+            Archery skill level: 17
+            Enchanting skill level: 12
+            Mana: 60
+	7. Mantri
+    	- requirements:
+        	playtime: 250 hour
+            blocks mined: 10,000 blocks
+            Defence skill level: 17
+            Forging skill level: 12
+            Mana: 70
+	8. Senapati
+    	- requirements:
+        	playtime: 360 hour
+            blocks mined: 15,000 blocks
+            Mining skill level: 25
+            Farming skill level: 25
+            Alchemy skill level: 17
+            Mana: 80
+	9. Raja
+    	- requirements:
+        	playtime: 500 hour
+            blocks mined: 20,000 blocks
+            Mining skill level: 30
+            Farming skill level: 35
+            Archery skill level: 35
+            Fighting skill level: 35
+            Mana: 90
+            
+Details of additional ranks:
+	In addition to our Primary Ranking, we have these additional ranks to appreciate the players who support CraftNepal and the players who aced any Season. 			Additional Ranks followed with X, that X represents craftnepal's season number.
+		1. Supporter
+    		-requirements:
+        		minimum donation of 200npr
+            
+  	  2. Veteran - Sx
+    		- requirements:
+        		reach the highest primary rank in any previous season
+    
+ 	   3. VIP
+    		- requirements
+        		first player to reach the highest primary rank in any season
+            
+    4. VIP - Sx
+    	- requirements
+        	first player to reach the highest primary rank in any previous season
+    
+    
+Details about Grief Prevention that you should know:
+    - Land claims are easy to manage.
+        Players create and manage their own land claims, so you don’t have to do it for them.
+        New players get automatic claims around their first chests so they’re protected even if they don’t know how to create land claims yet.
+        Players who ask for help in chat get an instant link to a demonstration video.
+        Resizing claims and creating new claims is done with ONLY the mouse, no slash commands (slash commands are also available).
+        When a player appears to be building something nice outside his claim, he’s warned and shown his claim boundaries.
+        Claim boundaries are easy to see, and don’t require any client-side mod installation.
+        Extremely easy-to-remember, single-parameter slash commands for giving other players permissions.
+        Claim subdivision and granular permissions are available to organize towns and cities.
+
+    - It’s IMPOSSIBLE to grief a land claim.
+        No building or breaking.
+        No stealing from ANY containers.
+        No sleeping in beds.
+        No button/lever usage.
+        No adjusting redstone repeaters or other configurable blocks.
+        No pushing blocks in with pistons.
+        No pulling blocks out with pistons.
+        No TNT damage (including cannons).
+        No creeper damage.
+        No explosive damage from other plugins, like Extra Hard Mode or Magic Spells.
+        No enderman/silverfish block changes.
+        All doors may be automatically locked (optional, see config file).
+        No killing or luring animals away.
+        No stealing water (e.g. buckets).
+        No trampling crops by players, animals, or monsters.
+        No building overtop, all claims reach to the max build height.
+        No placing or breaking paintings / item frames / armor stands, etc.
+        Fluids will not flow into a claim from outside.
+        No placing blocks via TNT/Sand/Gravel cannon.
+
+    - Pets and death loot are protected.
+        Players can’t pick up what another player dropped on death without permission (configurable, of course)
+        All types of pets can be protected everywhere, even outside of land claims (can be configured per-world)
+
+    - Wilderness Protection and Rollback
+        Fire doesn’t spread or destroy blocks.
+        Creepers and other explosions don’t destroy blocks above sea level.
+        TNT doesn’t destroy blocks above sea level.
+        No planting trees on platforms in the sky (“tree grief”).
+
+    - Land claims can’t be used as a griefing tool.
+        It’s impossible to get a player “stuck” inside a land claim.
+        Land claims beyond the first require a golden shovel.
+        Minimum claim size prevents sprinkling small claims to annoy other players.
+        Max claim allowance grows with time played on the server, and can’t be cheated by idling.
+        A simple administrative slash command will instantly remove all of a griefer’s claims, no matter where they are.
+
+    - It prevents pvp in calimed lands.
+    
+ Details of Minecraft Bedrock Edition:
+ 	craftnepal allows bedrock edition connection in the same server as well. Bedrock players can directly join in our Java server by using the below details.
+  	- ip is play.craftnepal.net
+    - port is 25600
+    
